@@ -1,14 +1,13 @@
 <?php
 
 /*
-Template Name: Home Page
+Template Name: Home Page2
 */
 ?>
 
 <?php get_header('custom'); ?>
 
 <div class="container">
-<h1>Hello</h1>
     <div class="main-wrap">
         <div class="main">
             <h1><?php get_template_part('includes/section', 'content');?></h1>

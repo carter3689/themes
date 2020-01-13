@@ -9,20 +9,26 @@
 
 </head>
 <body>
-<header class="site-header">
-  <a href="#0" class="logo">Logo</a>
-  <nav class="site-nav">
-    <ul>
+<header>
+  <nav>
+    <ul id="nav">
         <li><a href="#">Who We Are</a></li>
         <li><a href="#">Our Process</a></li>
         <li><a href="#">What We Do</a></li>
+        <a href="#0" class="logo"><img src="https://via.placeholder.com/150" alt=""></a>
         <li><a href="#">Case Studies</a></li>
         <li><a href="#">Reviews</a></li>
         <li><a href="#">Blog</a></li>
     </ul>
   </nav>
-  <div class="account-actions">
-    <a href="#0"> <button class="contact-us">Contact Us</button></a>
+
+  <div class="text">
+      <h1>The Modern Day Salesman for </h1>
+      <h1>
+    <span class="word">Plumbers</span>
+    <span class="word">Doctors</span>
+    <span class="word ">Dentists</span>
+</h1>
   </div>
 </header>
 
